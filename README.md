@@ -1,4 +1,4 @@
-# dvhs-mvp
+# Alumala MVP
 
 https://www.alumala.com/
 
