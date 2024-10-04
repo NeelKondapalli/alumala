@@ -9,8 +9,8 @@ from .models import Profile
 
 from .serializers import ProfileSerializer
 
-url = "https://tcnkepluqwnvvuwptdrk.supabase.co"
-key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InRjbmtlcGx1cXdudnZ1d3B0ZHJrIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTcxNDUyMTAyOSwiZXhwIjoyMDMwMDk3MDI5fQ.z_0VBtUhQ9NxRBX-umJpXl0ERFUNM94rRTQUoR6o8Ss"
+url = ""
+key = ""
 
 supabase: Client = create_client(url, key)
 
